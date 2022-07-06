@@ -19,3 +19,16 @@
 - **jetbrains-datagrip : https://www.jetbrains.com/datagrip/**
 - **jetbrains-dataspell : https://www.jetbrains.com/dataspell/**
 - **eclipse : https://github.com/eclipse**
+
+# Database
+- **postgresql : https://www.postgresql.org/**
+- **sqllite : https://sqlite.org/index.html**
+- **mongodb : https://github.com/mongodb/mongo**
+- **redis : https://github.com/redis/redis**
+- **elasticsearch : https://github.com/elastic/elasticsearch**
+- **amazon-dynamodb : https://aws.amazon.com/dynamodb/**
+- **google-firebase-realtime-database : https://firebase.google.com/docs/database**
+- **google-cloud-firestore : https://firebase.google.com/docs/firestore**
+- **apache-cassandra : *https://github.com/apache/cassandra**
+- **neo4j : https://github.com/neo4j/neo4j**
+- **apache-couchdb : https://github.com/apache/couchdb**
