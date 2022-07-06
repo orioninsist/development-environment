@@ -47,3 +47,13 @@
 - **digital-ocean : https://www.digitalocean.com/**
 - **google-firebase : https://firebase.google.com/**
 - **open-stack : https://www.openstack.org/**
+
+# Operating System
+- **kali-bare-metal : https://www.kali.org/**
+- **parrot-security-edition : https://parrotsec.org/**
+- **tails : https://tails.boum.org/**
+- **whonix : https://www.whonix.org/**
+- **qubes : https://www.qubes-os.org/**
+- **debian : https://www.debian.org/**
+- **blackarch : https://blackarch.org/**
+- **windows11-development-environment : https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/**
