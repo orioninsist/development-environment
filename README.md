@@ -18,3 +18,4 @@
 - **spyder : https://github.com/spyder-ide/spyder**
 - **jetbrains-datagrip : https://www.jetbrains.com/datagrip/**
 - **jetbrains-dataspell : https://www.jetbrains.com/dataspell/**
+- **eclipse : https://github.com/eclipse**
