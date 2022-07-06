@@ -36,3 +36,12 @@
 - **apache-cassandra : https://github.com/apache/cassandra**
 - **neo4j : https://github.com/neo4j/neo4j**
 - **apache-couchdb : https://github.com/apache/couchdb**
+
+
+# Cloud platform
+- **amazon-aws : https://aws.amazon.com/**
+- **google-cloud : https://cloud.google.com/**
+- **heroku : https://www.heroku.com/**
+- **digital-ocean : https://www.digitalocean.com/**
+- **google-firebase : https://firebase.google.com/**
+- **open-stack : https://www.openstack.org/**
