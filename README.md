@@ -60,3 +60,31 @@
 
 # Server Operating System
 - **debian-server : https://www.debian.org/**
+
+# Helper tool
+- **7zip : https://www.7-zip.org/**
+- **vlc-media-player : https://github.com/videolan/vlc**
+- **handbrake : https://github.com/HandBrake/HandBrake**
+- **calibre : https://github.com/kovidgoyal/calibre**
+- **obs-studio : https://github.com/obsproject/obs-studio**
+- **flame-shot : https://github.com/flameshot-org/flameshot**
+- **qemu : https://github.com/qemu/qemu**
+- **virt-manager : https://github.com/virt-manager/virt-manager**
+- **audacity : https://github.com/audacity/audacity**
+- **remmina : https://gitlab.com/Remmina/Remmina**
+- **tiger-vnc : https://github.com/TigerVNC/tigervnc**
+- **tight-vnc : https://www.tightvnc.com/**
+- **q-bittorrent : https://github.com/qbittorrent/qBittorrent**
+- **kodi : https://github.com/xbmc/xbmc**
+- **gimp : https://gitlab.gnome.org/GNOME/gimp**
+- **inkscape : https://gitlab.com/inkscape/inkscape**
+- **blender : https://github.com/blender/blender**
+- **scribus : https://www.scribus.net/**
+- **shotcut : https://github.com/mltframework/shotcut**
+- **openshot : https://github.com/OpenShot/openshot-qt**
+- **zettlr : https://github.com/Zettlr/Zettlr**
+- **kde-apps : https://apps.kde.org/**
+- **gnome-apps : https://apps.gnome.org/**
+- **xfce-project : https://www.xfce.org/projects** 
+- **darktable : https://github.com/darktable-org/darktable**
+- **libreoffice : https://github.com/LibreOffice**
