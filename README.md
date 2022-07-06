@@ -19,6 +19,10 @@
 - **jetbrains-datagrip : https://www.jetbrains.com/datagrip/**
 - **jetbrains-dataspell : https://www.jetbrains.com/dataspell/**
 - **eclipse : https://github.com/eclipse**
+- **jetbrains-datalore : https://datalore.jetbrains.com/**
+- **anaconda : https://www.anaconda.com/**
+- **google-colab : https://colab.research.google.com/**
+- **gnu-nano : https://www.nano-editor.org/**
 
 # Database
 - **postgresql : https://www.postgresql.org/**
