@@ -57,3 +57,6 @@
 - **debian : https://www.debian.org/**
 - **blackarch : https://blackarch.org/**
 - **windows11-development-environment : https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/**
+
+# Server Operating System
+- **debian-server : https://www.debian.org/**
