@@ -23,6 +23,8 @@
 - **anaconda : https://www.anaconda.com/**
 - **google-colab : https://colab.research.google.com/**
 - **gnu-nano : https://www.nano-editor.org/**
+- **jetbrains-phpstorm : https://www.jetbrains.com/phpstorm/**
+- **jetbrains-rubymine : https://www.jetbrains.com/ruby/**
 
 # Database
 - **postgresql : https://www.postgresql.org/**
