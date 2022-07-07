@@ -97,3 +97,13 @@
 # Version Control Platform
 - **github : https://github.com/**
 - **gitlab : https://about.gitlab.com/**
+
+
+# Other Tool
+- **docker : https://github.com/docker**
+- **kubernetes : https://github.com/kubernetes/kubernetes**
+- **ansible : https://github.com/ansible/ansible**
+- **yarn : https://github.com/yarnpkg/yarn**
+- **terrafrom : https://github.com/hashicorp/terraform**
+
+
