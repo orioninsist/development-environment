@@ -137,6 +137,23 @@
 - **django : https://github.com/django/django**
 - **flask : https://github.com/pallets/flask**
 
+# Other frameworks and libraries
+- **numpy : https://github.com/numpy/numpy**
+- **pandas : https://github.com/pandas-dev/pandas**
+- spring-framework : https://github.com/spring-projects/spring-framework**
+- **tensorflow : https://github.com/tensorflow/tensorflow**
+- **fluterr : https://github.com/flutter/flutter**
+- **scikit-learn :https://github.com/scikit-learn/scikit-learn**
+- **react-native : https://github.com/facebook/react-native**
+- **apache-kafka : https://github.com/apache/kafka**
+- **electron : https://github.com/electron/electron**
+- **pytorch : https://github.com/pytorch/pytorch**
+- **qt : https://www.qt.io/**
+- **keras : https://github.com/keras-team/keras**
+- **apache-spark : https://github.com/apache/spark**
+- **apache-hadoop : https://github.com/apache/hadoop**
+- **gtk : https://github.com/GNOME/gtk**
+
 
 
 
