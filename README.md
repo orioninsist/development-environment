@@ -107,3 +107,24 @@
 - **terrafrom : https://github.com/hashicorp/terraform**
 
 
+# Programming Language
+- **javascript : https://www.javascript.com/**
+- **html-css : https://www.w3schools.com/html/html_css.asp**
+- **sql**
+- **python : https://github.com/python/cpython**
+- **typescript : https://github.com/microsoft/TypeScript**
+- **java : https://github.com/openjdk/jdk**
+- **bash/shell**
+- **c++ : https://isocpp.org/**
+- **c : https://www.iso.org/standard/74528.html**
+- **go : https://github.com/golang/go**
+- **solidity : https://github.com/ethereum/solidity**
+- **kotlin : https://github.com/JetBrains/kotlin**
+- **rust : https://github.com/rust-lang/rust**
+- **dart : https://github.com/dart-lang/sdk**
+- **switft : https://github.com/apple/swift**
+- **assembly**
+- **r : https://www.r-project.org/**
+
+
+
