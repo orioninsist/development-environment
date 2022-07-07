@@ -127,4 +127,16 @@
 - **r : https://www.r-project.org/**
 
 
+# Web Framework and Technology
+- **nodejs : https://github.com/nodejs/node**
+- **react : https://github.com/facebook/react**
+- **expressjs : https://github.com/expressjs/express**
+- **angular : https://github.com/angular/angular**
+- **vuejs : https://github.com/vuejs/vue**
+- **nextjs : https://github.com/vercel/next.js/**
+- **django : https://github.com/django/django**
+- **flask : https://github.com/pallets/flask**
+
+
+
 
