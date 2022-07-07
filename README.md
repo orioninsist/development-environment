@@ -93,3 +93,7 @@
 
 # Version Control System
 - **git : https://git-scm.com/**
+
+# Version Control Platform
+- **github : https://github.com/**
+- **gitlab : https://about.gitlab.com/**
