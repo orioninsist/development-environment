@@ -105,6 +105,12 @@
 - **ansible : https://github.com/ansible/ansible**
 - **yarn : https://github.com/yarnpkg/yarn**
 - **terrafrom : https://github.com/hashicorp/terraform**
+- **npm : https://github.com/npm/cli**
+- **homebrew : https://github.com/Homebrew/brew**
+- **unity : https://github.com/Unity-Technologies**
+- **unreal-engine : https://github.com/EpicGames**
+
+
 
 
 # Programming Language
