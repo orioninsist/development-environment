@@ -110,6 +110,9 @@
 - **homebrew : https://github.com/Homebrew/brew**
 - **unity : https://github.com/Unity-Technologies**
 - **unreal-engine : https://github.com/EpicGames**
+- **vagrant : https://github.com/hashicorp/vagrant**
+- **postman : https://github.com/postmanlabs**
+- **selenium : https://github.com/SeleniumHQ/selenium**
 
 
 
