@@ -165,5 +165,7 @@
 - **gtk : https://github.com/GNOME/gtk**
 
 
+- **stow-i3-i3gaps-zsh-polybar-yay-paru-awesome,terminal,fonts-picom-nitrogen-ripgrep-rofi-pulseaudio control-neofetch-htop-auto tiling**
+
 
 
